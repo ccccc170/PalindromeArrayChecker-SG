@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b870f7b-5481-4b78-89d1-d33d769e2272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/PalindromeArrayChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sparta/Starter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/test/PalindromeArrayCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +38,26 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/ccccc170/IdeaProjects/SG-solo-projects/PalindromeArrayChecker-SG"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.PalindromeArrayCheckerTest">
+  <component name="RunManager" selected="JUnit.PalindromeArrayCheckerTest (1)">
+    <configuration name="PalindromeArrayCheckerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PalindromeArrayChecker-SG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.PalindromeArrayCheckerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PalindromeArrayCheckerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PalindromArrayCheckerSG" />
       <extension name="coverage">
@@ -76,22 +84,6 @@
       <option name="PACKAGE_NAME" value="com.test" />
       <option name="MAIN_CLASS_NAME" value="com.test.PalindromeArrayCheckerTest" />
       <option name="METHOD_NAME" value="returnsArrayWithOnlyThePalindromesWhenPassedArrayWithPalindromesNonePalindromesAndEmptyStrings" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeArrayCheckerTest.returnsArrayWithSamePalindromesRegardlessOfNumberCharactersWithinPalindromes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PalindromArrayCheckerSG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.test" />
-      <option name="MAIN_CLASS_NAME" value="com.test.PalindromeArrayCheckerTest" />
-      <option name="METHOD_NAME" value="returnsArrayWithSamePalindromesRegardlessOfNumberCharactersWithinPalindromes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PalindromeArrayCheckerTest (1)" />
         <item itemvalue="JUnit.PalindromeArrayCheckerTest" />
         <item itemvalue="JUnit.PalindromeArrayCheckerTest.returnsArrayWithOnlyThePalindromesWhenPassedArrayWithPalindromesNonePalindromesAndEmptyStrings" />
         <item itemvalue="JUnit.PalindromeArrayCheckerTest.returnsEmptyArrayWhenPassedArrayOfEmptyStrings" />
         <item itemvalue="JUnit.PalindromeArrayCheckerTest.returnsArrayWithSamePalindromesRegardlessOfSpecialCharactersWithinPalindromes" />
-        <item itemvalue="JUnit.PalindromeArrayCheckerTest.returnsArrayWithSamePalindromesRegardlessOfNumberCharactersWithinPalindromes" />
       </list>
     </recent_temporary>
   </component>
